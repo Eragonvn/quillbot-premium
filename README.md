@@ -5,7 +5,7 @@
     <img alt="License: GLP" src="https://img.shields.io/badge/License-GLP-yellow.svg" />
   </a>
   <a href="https://twitter.com/razoo\_choudhary" target="_blank">
-    <img alt="Twitter: razoo\_choudhary" src="https://img.shields.io/twitter/follow/razoo\_choudhary.svg?style=social" />
+    <img alt="Twitter: razoo_choudhary" src="https://img.shields.io/twitter/follow/razoo\_choudhary.svg?style=social" />
   </a>
 </p>
 
