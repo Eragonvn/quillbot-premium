@@ -22,6 +22,19 @@
 - Enjoy
 ```
 
+## Troubleshooting
+
+```sh
+Sometimes sever not may respond accordingly, in that case,
+- try clearing your cookie
+- update chrome
+- sign out from quill bot
+- sign in again
+
+```
+
+
+
 ## Author
 
 👤 **Raju Choudhary**
