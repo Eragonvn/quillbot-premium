@@ -17,7 +17,7 @@
 - Download the chrome extention from the Releases
 - Add Extention to chrome as developer, ( Ignore Manifest Warning )
 - Reload https://quillbot.com
-- Provide the secret token provided to you from Telegram Group
+- Provide the secret token provided to you from Telegram Group ( If asked By Quillbot else ignore this step )
 - If not signed in just sign in with your quillbot account
 - Enjoy
 ```
