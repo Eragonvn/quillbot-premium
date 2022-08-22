@@ -31,10 +31,20 @@ Sometimes servers may not react as expected; in that scenario,
 - Update the web browser to Chrome
 - Sign off from Quill Bot
 - Sign in again to Quill Bot
+```
+## ✔️ Newly Added
 
+```sh
+- official quill bot chrome extention will also have premium if both the extentions are enabled in the chrome and logged in
 ```
 
-## ❓ Why Join Telegram ?
+## ❓  What is not working ?
+
+```sh
+- Plagiarism Checker
+```
+
+## ❓  Why Join Telegram ?
 
 > We currently only have one premium account, so to prevent this account from being patched by the Quill Bot a powerful script is running behind the scenes which logs in the Quill Bot account in a virtual browser and keeps monitoring with the Quill Bot detection system. Quill Bot is extremely against account sharing, and when an account is shared Quill Bot detection system detects the account and they patch those accounts that are being shared.
 
